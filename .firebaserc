@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "dev-unopuntocinco"
+  },
+  "targets": {
+    "dev-unopuntocinco": {
+      "hosting": {
+        "prueba": [
+          "germancodechallenge"
+        ]
+      }
+    }
+  }
+}
